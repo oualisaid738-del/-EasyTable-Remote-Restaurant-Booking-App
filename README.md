@@ -17,7 +17,7 @@
   - Credit/Debit Card  
   - E-wallet  
   - Cash on arriva
-  - ## 5. Offers & Discounts
+  ### 5. Offers & Discounts
 - Get notified about **lunch and dinner deals**.  
 - Exclusive **discounts** for loyal customers.
 - ### 6. Reviews & Ratings
@@ -40,5 +40,6 @@
 - Integration with delivery apps
 - ### Project Idea by:  
 **Ouali Said**
+
 **Fezzaa El hadi**
 
